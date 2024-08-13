@@ -11,7 +11,7 @@ DApp huy động vốn từ cộng đồng của chúng tôi cho phép người 
 Vui lòng làm theo Hướng dẫn sau để chạy dự án trong hệ thống của bạn và cài đặt các yêu cầu cần thiết
 
 
-#### Install Vs Code Editor
+#### Cài đặt Vs Code Editor
 
 ```https://code.visualstudio.com/download
   GET: VsCode Editor
@@ -24,46 +24,23 @@ Vui lòng làm theo Hướng dẫn sau để chạy dự án trong hệ thống 
   NPM: 8.19.2
 ```
 
-
-#### Setup Video
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-
-#### Install Vs Code Editor
-
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
-
 #### NodeJs & NPM Version
 
 ```https://nodejs.org/en/download
   NodeJs: v18.12.1
   NPM: 8.19.2
 ```
-
-
 
 
 #### RemixID
 
-We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
+Tôi đang sử dụng RemixID để triển khai hợp đồng và tạo ABI trong dự án, nhưng bạn có thể sử dụng bất kỳ công cụ nào khác như Hardhat, v.v.
 
 ```https://remix-project.org
   OPEN: RemixID
 ```
 
 
-
-## Important Links
-
-
-
-## Authors
-
-- [@facebook](https://www.facebook.com/profile.php?id=100013048007888)
+###- [@facebook](https://www.facebook.com/profile.php?id=100013048007888)
 
 
