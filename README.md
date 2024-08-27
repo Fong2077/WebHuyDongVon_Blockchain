@@ -24,14 +24,6 @@ Vui lòng làm theo Hướng dẫn sau để chạy dự án trong hệ thống 
   NPM: 8.19.2
 ```
 
-#### NodeJs & NPM Version
-
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
-```
-
-
 #### RemixID
 
 Tôi đang sử dụng RemixID để triển khai hợp đồng và tạo ABI trong dự án, nhưng bạn có thể sử dụng bất kỳ công cụ nào khác như Hardhat, v.v.
